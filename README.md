@@ -1,3 +1,3 @@
 # OnesProject
 
-## Project folders
+Project folders
