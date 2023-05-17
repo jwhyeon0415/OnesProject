@@ -1,1 +1,3 @@
-# OnesGetReady
+# OnesProject
+
+Project folders
